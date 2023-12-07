@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.menu li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h5 {
+    font-size: 20px;
+}
+
+/* o restante do seu estilo CSS aqui */
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header-container {
+    position: relative;
+}
+
+.header-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #fff;
+    color: #037e8c;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #e0e0e0;
+    color: #037e8c;
+}
+
+
+body {
+    background-color: #c6c9cb;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #024959;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #024959;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #da70d6;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #024959;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar li {
+    margin-right: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.header-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    background-color: #fff;
+    color: #037e8c;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #e0e0e0;
+    color: #037e8c;
+}
